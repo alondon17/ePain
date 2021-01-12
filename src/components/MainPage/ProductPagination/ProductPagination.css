@@ -1,0 +1,11 @@
+.perPageCurr{
+color: blue;
+}
+.perPage:hover{
+color: cyan;
+}
+.perPage{
+cursor: pointer;
+color:black;
+transition: color 0.5s;
+}
